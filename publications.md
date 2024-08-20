@@ -4,43 +4,70 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Update: 3rd August 2024
->
-> (†: equal contribution, ~: corresponding author)
+## Published Papers
 
-## Conference Paper
+- <table>
+    <tr>
+        <td class="imger" vertical-align="middle"><img src="../images/haucl_main.jpg" style="width:1000px; height:200px"/></td>
+        <td>Multimodal Fusion via Hypergraph Autoencoder and Contrastive Learning for Emotion Recognition in Conversation <br> Zijian Yi, <b>Ziming Zhao</b>, Zhishu Shen, Tiehua Zhang
+        <br><i>@ACM Multimedia, 2024</i>
+        </td>
+    </tr>
+  </table>
+  [[We release our Implementation Code Here]](https://github.com/zhziming/HAUCL)   [[Latest Version Paper]](https://arxiv.org/abs/2408.00970)
 
-- BLEGuard: Hybrid Detection Mechanism for Safeguarding Bluetooth Low Energy Networks Against Spoofing Attacks<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. Also presented in MobiSys 2024 Poster Session.<br>Barcelona, Spain. June, 2024.
+- <table>
+    <tr>
+        <td class="imger" vertical-align="middle"><img src="../images/STHL_main.jpg" style="width:1000px; height:200px"/></td>
+        <td>Exploitting Spatial-Temporal Data for Sleep Stage Classification via Hypergraph Learning <br> <b>Ziming Zhao</b><sup>*</sup>, Yuze Liu<sup>*</sup>, Tiehua Zhang, Kang Wang, Xin Chen, Xiaowei Huang, Jun Yin, Zhishu Shen
+        <br><i>@ICASSP, 2024</i>
+        </td>
+    </tr>
+  </table>
+  [[We release our Implementation Code Here]](https://github.com/zhziming/STHL)   [[Latest Version Paper]](https://arxiv.org/abs/2309.02124)
 
-  <br>
+<style type="text/css">
+  imger {
+    display: block;
+  }
 
+  .imger {
+    border-radius: 20px;
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .imger:before {
+    border-radius: 20px;
+    bottom: 0;
+    box-shadow: inset 0 0 1px 1px #100;
+    content: " ";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1;
+  }
+</style>
+
+<style type="text/css">
+  td {
+    padding: 0 15px;
+  }
+</style>
 
 ---
 
-## Degree Thesis
+## Preprint
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
+- <table>
+    <tr>
+        <td class="imger" vertical-align="middle"><img src="../images/chase.jpg" style="width:1000px; height:200px"/></td>
+        <td>CHASE: A Causal Heterogeneous Graph based Framework for Root Cause Analysis in Multimodal Microservice Systems <br> <b>Ziming Zhao</b>, Tiehua Zhang, Zhishu Shen, Hai Dong, Xingjun Ma, Xianhui Liu, Yun Yang
+        <br>Under Review of <i>IEEE TSC</i>
+        </td>
+    </tr>
+  </table>
+  [[Latest Version Paper]](https://arxiv.org/abs/2406.19711)
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
-
-  <br>
-
----
-
-## Manuscript
-
-TBA.
-
-<br>
-
----
-
-## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>AAAI Conference on Artificial Intelligence. Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br>
