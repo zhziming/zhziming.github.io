@@ -8,7 +8,7 @@ title: Publications
 
 - <table>
     <tr>
-        <td class="imger" vertical-align="middle"><img src="../images/haucl_main.jpg" style="width:1000px; height:200px"/></td>
+        <td class="imger" vertical-align="middle"><a href="../images/haucl_main.jpg"><img src="../images/haucl_main.jpg" style="width:1200px; height:200px"/></a></td>
         <td>Multimodal Fusion via Hypergraph Autoencoder and Contrastive Learning for Emotion Recognition in Conversation <br> Zijian Yi, <b>Ziming Zhao</b>, Zhishu Shen, Tiehua Zhang
         <br><i>@ACM Multimedia, 2024</i>
         </td>
@@ -18,7 +18,7 @@ title: Publications
 
 - <table>
     <tr>
-        <td class="imger" vertical-align="middle"><img src="../images/STHL_main.jpg" style="width:1000px; height:200px"/></td>
+        <td class="imger" vertical-align="middle"><a href="../images/STHL_main.jpg"><img src="../images/STHL_main.jpg" style="width:1050px; height:200px"/></a></td>
         <td>Exploitting Spatial-Temporal Data for Sleep Stage Classification via Hypergraph Learning <br> <b>Ziming Zhao</b><sup>*</sup>, Yuze Liu<sup>*</sup>, Tiehua Zhang, Kang Wang, Xin Chen, Xiaowei Huang, Jun Yin, Zhishu Shen
         <br><i>@ICASSP, 2024</i>
         </td>
@@ -48,6 +48,7 @@ title: Publications
     right: 0;
     top: 0;
     z-index: 1;
+    pointer-events: none;
   }
 </style>
 
@@ -63,7 +64,7 @@ title: Publications
 
 - <table>
     <tr>
-        <td class="imger" vertical-align="middle"><img src="../images/chase.jpg" style="width:1000px; height:200px"/></td>
+        <td class="imger" vertical-align="middle"><a href="../images/chase.jpg"><img src="../images/chase.jpg" style="width:1200px; height:200px"/></a></td>
         <td>CHASE: A Causal Heterogeneous Graph based Framework for Root Cause Analysis in Multimodal Microservice Systems <br> <b>Ziming Zhao</b>, Tiehua Zhang, Zhishu Shen, Hai Dong, Xingjun Ma, Xianhui Liu, Yun Yang
         <br>Under Review of <i>IEEE TSC</i>
         </td>
