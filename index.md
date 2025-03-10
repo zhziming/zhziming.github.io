@@ -4,7 +4,7 @@ layout: page
 
 <table>
     <tr>
-        <td>Hi there! I am <b>Ziming Zhao (赵子铭)</b>, a PhD student from  <a href="https://github.com/D2I-Group/">D2I Group@UH</a> advised by Dr.JingChao Ni. I graduated from University of Michigan, Ann Arbor in 2023 with a master's degree in Data Information Science. After graduation, I had a one-year working experience as machine learning engineer at Alibaba, Ant Group. I obtained my bachelor’s degree in Computer Engineering from Shanghai Jiao University in 2021. If you are interested in my research or other aspects, feel free to email me at <i>zzhao35[at]uh[dot]edu</i> </td>
+        <td>Hi there! I am <b>Ziming Zhao (赵子铭)</b>, a PhD student from  <a href="https://github.com/D2I-Group/" style="text-decoration: underline;"><b>D2I Group@UH</b></a> advised by Dr.JingChao Ni. I graduated from University of Michigan, Ann Arbor in 2023 with a master's degree in Data Information Science. After graduation, I had a one-year working experience as machine learning engineer at Alibaba, Ant Group. I obtained my bachelor’s degree in Computer Engineering from Shanghai Jiao University in 2021. If you are interested in my research or other aspects, feel free to email me at <i>zzhao35[at]uh[dot]edu</i> </td>
         <td ><img src="./images/photo.png" style="width:2500px;"/></td>
     </tr>
 </table>
