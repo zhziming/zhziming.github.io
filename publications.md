@@ -8,13 +8,13 @@ title: Publications
 
 - <table>
     <tr>
-        <td class="imger" vertical-align="middle"><a href="../images/Hyper_main.jpg"><img src="../images/Hyper_main.jpg" style="width:1200px; height:200px"/></a></td>
+        <td class="imger" vertical-align="middle"><a href="../images/Hyper_main.jpg"><img src="../images/Hyper_main.jpg" style="width:1050px; height:200px"/></a></td>
         <td>HyperSMOTE: A Hypergraph-based Oversampling Approach for Imbalanced Node Classifications <br> <b>Ziming Zhao</b>, Tiehua Zhang, Zijian Yi, Zhishu Shen
         <br><i>@ICASSP, 2025</i>
         </td>
     </tr>
   </table>
-  [[We release our Implementation Code Here]](https://github.com/zhziming/HAUCL)   [[Latest Version Paper]](https://arxiv.org/abs/2408.00970)
+  [[We release our Implementation Code Here]](https://github.com/zhziming/HAUCL)   [[Latest Version Paper]](https://arxiv.org/abs/2409.05402)
 
 - <table>
     <tr>
