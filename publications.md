@@ -8,7 +8,17 @@ title: Publications
 
 - <table>
     <tr>
-        <td class="imger" vertical-align="middle"><a href="../images/Hyper_main.jpg"><img src="../images/Hyper_main.jpg" style="width:1050px; height:150px"/></a></td>
+        <td class="imger" vertical-align="middle"><a href="../images/HVM4TS.jpg"><img src="../images/HVM4TS.jpg" style="width:550px; height:240px"/></a></td>
+        <td>Harnessing Vision Models for Time Series Analysis: A Survey <br> Jingchao Ni, <b>Ziming Zhao</b>, ChengAo Shen, <em>et al</em>
+        <br><i>@IJCAI, 2025</i>
+        </td>
+    </tr>
+  </table>
+  [[Code]](https://github.com/D2I-Group/awesome-vision-time-series)  [[Latest Version Paper]](https://arxiv.org/abs/2502.08869)
+
+- <table>
+    <tr>
+        <td class="imger" vertical-align="middle"><a href="../images/Hyper_main.jpg"><img src="../images/Hyper_main.jpg" style="width:1050px; height:100px"/></a></td>
         <td>HyperSMOTE: A Hypergraph-based Oversampling Approach for Imbalanced Node Classifications <br> <b>Ziming Zhao</b>, Tiehua Zhang, Zijian Yi, Zhishu Shen
         <br><i>@ICASSP, 2025</i>
         </td>
@@ -24,7 +34,7 @@ title: Publications
         </td>
     </tr>
   </table>
-  [[We release our Implementation Code Here]](https://github.com/zhziming/HAUCL)   [[Latest Version Paper]](https://arxiv.org/abs/2408.00970)
+  [[Code]](https://github.com/zhziming/HAUCL)   [[Latest Version Paper]](https://arxiv.org/abs/2408.00970)
 
 - <table>
     <tr>
@@ -34,7 +44,7 @@ title: Publications
         </td>
     </tr>
   </table>
-  [[We release our Implementation Code Here]](https://github.com/zhziming/STHL)   [[Latest Version Paper]](https://arxiv.org/abs/2309.02124)
+  [[Code]](https://github.com/zhziming/STHL)   [[Latest Version Paper]](https://arxiv.org/abs/2309.02124)
 
 <style type="text/css">
   imger {
@@ -71,6 +81,16 @@ title: Publications
 ---
 
 ## Preprint
+
+- <table>
+    <tr>
+        <td class="imger" vertical-align="middle"><a href="../images/image2ts.jpg"><img src="../images/image2ts.jpg" style="width:1000px; height:150px"/></a></td>
+        <td>From Images to Signals: Are Large Vision Models Useful for Time Series Analysis? <br> <b>Ziming Zhao</b>, ChengAo Shen, Hanghang Tong, Dongjin Song, Zhigang Deng, Qingsong Wen, Jingchao Ni
+        <br>Under Review of <i>NeurIPS 2025</i>
+        </td>
+    </tr>
+  </table>
+  [[Latest Version Paper]](https://arxiv.org/abs/2505.24030)
 
 - <table>
     <tr>

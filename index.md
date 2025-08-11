@@ -33,7 +33,8 @@ My current research focuses on leveraging image transformation and pretrained la
 ---
 
 ## News and Updates
-
+- **Jun 2025 [Paper]:** Our latest study on [LVMs for time series](https://arxiv.org/abs/2505.24030) is available! - From Images to Signals: Are Large Vision Models Useful for Time Series Analysis?
+- **Feb 2025 [Paper]:** One survey got accepted by [IJCAI'2025 Survey Track](https://2025.ijcai.org/) - Harnessing Vision Models for Time Series Analysis: A Survey
 - **Jan 2025 [Paper]:** One paper got accepted by [ICASSP'2025](https://2025.ieeeicassp.org/) - HyperSMOTE: A Hypergraph-based Oversampling
 Approach for Imbalanced Node Classifications.
 - **July 2024 [Paper]:** One paper got accepted by [ACMMM'2024](https://2024.acmmm.org/) - Multimodal Fusion via Hypergraph Autoencoder and Contrastive Learning for Emotion Recognition in Conversation.
