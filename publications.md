@@ -8,7 +8,7 @@ title: Publications
 
 - <table>
     <tr>
-        <td class="imger" vertical-align="middle"><a href="../images/HVM4TS.jpg"><img src="../images/HVM4TS.jpg" style="width:550px; height:240px"/></a></td>
+        <td class="imger" vertical-align="middle"><a href="../images/HVM4TS.JPG"><img src="../images/HVM4TS.JPG" style="width:550px; height:240px"/></a></td>
         <td>Harnessing Vision Models for Time Series Analysis: A Survey <br> Jingchao Ni, <b>Ziming Zhao</b>, ChengAo Shen, <em>et al</em>
         <br><i>@IJCAI, 2025</i>
         </td>
@@ -84,7 +84,7 @@ title: Publications
 
 - <table>
     <tr>
-        <td class="imger" vertical-align="middle"><a href="../images/image2ts.jpg"><img src="../images/image2ts.jpg" style="width:1000px; height:150px"/></a></td>
+        <td class="imger" vertical-align="middle"><a href="../images/image2ts.JPG"><img src="../images/image2ts.JPG" style="width:1000px; height:150px"/></a></td>
         <td>From Images to Signals: Are Large Vision Models Useful for Time Series Analysis? <br> <b>Ziming Zhao</b>, ChengAo Shen, Hanghang Tong, Dongjin Song, Zhigang Deng, Qingsong Wen, Jingchao Ni
         <br>Under Review of <i>NeurIPS 2025</i>
         </td>
